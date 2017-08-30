@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rishad/.android/build-cache/98f818704b45fbf0cf4f35f63d64036dfb23b6ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/rishad/AndroidStudioProjects/driver_app/app/build/intermediates/pre-dexed/debug/classes_2827a5652d8b7ae5b10d9082d5f39061b06b1b28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishad/.android/build-cache/e50ff8ee6253690a7f2ddb084cf49d813d6c79b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/rishad/AndroidStudioProjects/driver_app/app/build/intermediates/pre-dexed/debug/classes_e087ed7f1e0d1f96b747d8e2324466053c06755c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishad/.android/build-cache/ce6b9387537c265d3af10fc4bf27b177d6a5317f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/rishad/AndroidStudioProjects/driver_app/app/build/intermediates/pre-dexed/debug/classes_72803f88f8c7ff98d515d0c9724bd273fac0688d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishad/.android/build-cache/81920f24a0f5517e7c074db90b5f943b94255e37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/rishad/AndroidStudioProjects/driver_app/app/build/intermediates/pre-dexed/debug/classes_6daf4a9e9042b2e1d3f3c41c040443be0bc620a8.jar" />
+    </item>
+
+</items>

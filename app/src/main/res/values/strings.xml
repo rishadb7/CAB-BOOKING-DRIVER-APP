@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALPY CAB DRIVER</string>
+    <string name="title_complete">ALPY CAB DRIVER</string>
+    <string name="locat">This app wants to change
+        your device settings:"      "
+        Use GPS,wifi and mobile networks
+        for location</string>
+
+</resources>
